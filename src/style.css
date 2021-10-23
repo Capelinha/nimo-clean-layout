@@ -1,0 +1,1155 @@
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXO61F3f.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+/* cyrillic */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXq61F3f.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+
+/* hebrew */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXy61F3f.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+
+/* latin-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXC61F3f.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnX661A.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXO61F3f.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+/* cyrillic */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXq61F3f.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+
+/* hebrew */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXy61F3f.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+
+/* latin-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXC61F3f.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnX661A.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXO61F3f.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+/* cyrillic */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXq61F3f.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+
+/* hebrew */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXy61F3f.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+
+/* latin-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXC61F3f.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnX661A.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXO61F3f.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+/* cyrillic */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXq61F3f.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+
+/* hebrew */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXy61F3f.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+
+/* latin-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXC61F3f.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnX661A.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXO61F3f.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+/* cyrillic */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXq61F3f.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+
+/* hebrew */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXy61F3f.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+
+/* latin-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXC61F3f.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnX661A.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXO61F3f.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+/* cyrillic */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXq61F3f.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+
+/* hebrew */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXy61F3f.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+
+/* latin-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXC61F3f.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnX661A.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXO61F3f.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+/* cyrillic */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXq61F3f.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+
+/* hebrew */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXy61F3f.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+
+/* latin-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnXC61F3f.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWEBXyIfDnIV7nEnX661A.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nMrXyi0A.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+/* cyrillic */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nFrXyi0A.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+
+/* hebrew */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nDrXyi0A.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+
+/* latin-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nPrXyi0A.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nBrXw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nMrXyi0A.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+/* cyrillic */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nFrXyi0A.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+
+/* hebrew */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nDrXyi0A.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+
+/* latin-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nPrXyi0A.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nBrXw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nMrXyi0A.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+/* cyrillic */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nFrXyi0A.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+
+/* hebrew */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nDrXyi0A.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+
+/* latin-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nPrXyi0A.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nBrXw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nMrXyi0A.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+/* cyrillic */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nFrXyi0A.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+
+/* hebrew */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nDrXyi0A.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+
+/* latin-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nPrXyi0A.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nBrXw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nMrXyi0A.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+/* cyrillic */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nFrXyi0A.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+
+/* hebrew */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nDrXyi0A.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+
+/* latin-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nPrXyi0A.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nBrXw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nMrXyi0A.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+/* cyrillic */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nFrXyi0A.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+
+/* hebrew */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nDrXyi0A.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+
+/* latin-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nPrXyi0A.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nBrXw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* cyrillic-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nMrXyi0A.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+/* cyrillic */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nFrXyi0A.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+
+/* hebrew */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nDrXyi0A.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+
+/* latin-ext */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nPrXyi0A.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nBrXw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+html,
+body {
+  overflow-x: hidden !important;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Rubik' !important;
+}
+
+.ChatModeTip-container {
+  color: hsla(0, 0%, 100%, .6) !important;
+}
+
+.nimo-room .nimo-room__activity .nimo-iframe__wrap {
+  display: none !important;
+}
+
+.nimo-room .nimo-r_recommend-vertical {
+  display: none !important;
+}
+
+.nimo-room .nimo-rm_share {
+  display: none !important;
+}
+
+.nimo-room .nimo-room__rank {
+  display: none !important;
+}
+
+#side-bar {
+  display: none !important;
+}
+
+.nimo-menu-item[data-id=recharge] {
+  display: none !important;
+}
+
+.nimo-menu-item[data-id=goLive] {
+  display: none !important;
+}
+
+.nimo-menu-item[data-id=app] {
+  display: none !important;
+}
+
+.nimo-header-following {
+  display: none !important;
+}
+
+.nimo-header-chat {
+  display: none !important;
+}
+
+.nimo-room .nimo-anchor-level-badge {
+  display: none !important;
+}
+
+.nimo-room .nimo-rm_meta-rank-enter {
+  display: none !important;
+}
+
+.MessageList .nimo-scrollbar>div:not(.nimo-room__chatroom__message-item) {
+  display: none !important;
+}
+
+.MessageList .nimo-scrollbar {
+  width: 98% !important;
+  /*   display: flex;
+  flex-direction: column;
+  justify-content: end; */
+}
+
+.nimo-room .float-navigator-container {
+  display: none !important;
+}
+
+.nimo-room .chat-room__enter_banner {
+  display: none !important;
+}
+
+.nimo-room .top-message-list {
+  display: none !important;
+}
+
+.nimo-room .nimo-gift-banner {
+  display: none !important;
+}
+
+.nimo-room .nimo-room__chatroom__box-gift {
+  display: none !important;
+}
+
+.nimo-room .n-as-theater .nimo-room__gift-shop {
+  display: none !important;
+}
+
+.n-as-theater .nimo-room__theater-section {
+  max-height: 100vh !important;
+}
+
+.nimo-room .nimo-room__nav-tag {
+  display: none !important;
+}
+
+.nimo-room .clan-badge {
+  display: none !important;
+}
+
+.rate-current {
+  height: 100% !important;
+}
+
+.nimo-room__chatroom__message-item {
+  font-size: 14px !important;
+  padding: 3px 0px 3px 15px !important;
+  margin: 0px !important;
+}
+
+.nimo-room__chatroom__message-item:hover {
+  background: #0000000a !important;
+}
+
+.nimo-theme-dark .nimo-room__chatroom__message-item:hover {
+  background: #ffffff36 !important;
+}
+
+.message-filtered {
+  background-color: #ff22224a !important;
+  transition: 300ms !important;
+}
+
+.reply-btn-chat {
+  background: #fff !important;
+  position: absolute !important;
+  top: -16px !important;
+  right: 0 !important;
+  z-index: 20 !important;
+  width: 32px !important;
+  height: 32px !important;
+  border-radius: 3px !important;
+  padding: .3rem !important;
+  cursor: pointer !important;
+  box-shadow: -.5px -.5px 1px 1px #1e1e1e29 !important;
+  display: none !important;
+}
+
+.nimo-theme-dark .reply-btn-chat {
+  background: #1e1e1e !important;
+  box-shadow: -.3px -.3px 0px 1px #1e1e1e !important;
+}
+
+.reply-btn-chat:hover {
+  background: #f0f0f0 !important;
+}
+
+.nimo-theme-dark .reply-btn-chat:hover {
+  background: #4e4e4e !important;
+}
+
+.nimo-theme-dark .reply-btn-chat:hover {
+  background: #4e4e4e !important;
+}
+
+.nimo-theme-dark .reply-btn-chat svg {
+  fill: #ffffffd6 !important;
+}
+
+.nimo-room__chatroom__message-item:hover .reply-btn-chat {
+  display: block !important;
+}
+
+.nimo-theme-dark .nimo-room .nimo-room__chatroom__message-item__content {
+  color: #d3d3d8 !important;
+  line-height: 1.3 !important;
+}
+
+.nimo-room .nimo-room__chatroom__message-item__info {
+  font-weight: 500 !important;
+}
+
+.nimo-room .nimo-room__head-img {
+  display: none !important;
+}
+
+.nimo-room.has-head-img .nimo-room__main {
+  margin-top: 0px !important;
+  padding-bottom: 0px !important;
+  padding-top: 0px !important;
+}
+
+.MessageList .nimo-fans-badge__name {
+  display: none !important;
+}
+
+.nimo-room .nimo-cr_decoration_text {
+  display: none !important;
+}
+
+.nimo-room .GiftItemMaker {
+  display: none !important;
+}
+
+.nimo-room__theater-section {
+  max-height: calc(100vh - 60px + 96px) !important;
+  height: 100% !important;
+}
+
+.nimo-theme-dark .nimo-room__main {
+  background: #141414 !important;
+  padding-bottom: 0px !important;
+  padding-top: 0px !important;
+}
+
+.nimo-room__theater-section>div {
+  margin: 0 !important;
+}
+
+.nimo-room__theater-section>div:first-child {
+  flex-direction: column-reverse !important;
+}
+
+.nimo-room__theater-section>div:nth-child(2) {
+  margin-bottom: 96px !important;
+}
+
+.n-as-theater .nimo-room__theater-section>div:nth-child(2) {
+  margin-bottom: 0px !important;
+}
+
+.n-as-theater {
+  height: 100vh !important;
+}
+
+.nimo-room__player__wrap {
+  flex-grow: 1 !important;
+}
+
+.nimo-rm {
+  justify-self: flex-end !important;
+  margin-top: auto !important;
+}
+
+.nimo-room__main>div:not(:nth-child(3)) {
+  margin: 0 !important;
+}
+
+.nimo-room__main>div:nth-child(3) {
+  margin-top: 2rem !important;
+}
+
+.nimo-player__room-meta {
+  display: none !important;
+}
+
+.nimo-room .n-as-conf {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+  height: calc(100vh + 96px) !important;
+}
+
+.nimo-room .marquee-container {
+  display: none !important;
+}
+
+.nimo-room .n-as-line-under {
+  text-decoration: none !important;
+}
+
+.nimo-room .nimo-rm_title-name {
+  font-size: 19px !important;
+}
+
+.n-as-theater .nimo-room__gift-shop {
+  display: none !important;
+}
+
+.nimo-room .nimo-room__gift-shop {
+  order: -1 !important;
+  padding: 10px !important;
+  height: 96px !important;
+}
+
+.nimo-room .nimo-rm {
+  padding-left: 20px !important;
+}
+
+.video-player {
+  background: #010001 !important;
+}
+
+.nimo-room__gift-shop__gift-list,
+.nimo-room__gift-shop-left {
+  filter: grayscale() !important;
+}
+
+.nimo-room__gift-shop__gift-pack-btn {
+  background-color: #6c47ff !important;
+  border: 1px solid #6c47ff !important;
+  color: #e2bd84 !important;
+  box-shadow: none !important;
+}
+
+.nimo-room__gift-shop__recharge-btn {
+  color: #000 !important;
+}
+
+.nimo-btn-shop {
+  background: #6c47ff !important;
+  color: #FFF !important;
+  z-index: 0 !important;
+}
+
+.nimo-currency {
+  margin-left: .5rem !important;
+}

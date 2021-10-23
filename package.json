@@ -1,0 +1,18 @@
+{
+  "name": "nimo-clean-layout",
+  "version": "1.0.0",
+  "description": "Chrome extension to clean the Nimo.tv layout and make the page more beautiful",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateus Igreja",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^7.0.0",
+    "webpack": "^5.15.0",
+    "webpack-bundle-analyzer": "^4.3.0",
+    "webpack-cli": "^4.3.1"
+  }
+}
