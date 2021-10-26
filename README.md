@@ -18,6 +18,6 @@ Extension to clean the Nimo.tv layout and make the page more beautiful.
 
 [Download to Google Chrome](https://chrome.google.com/webstore/detail/ajlmalinjdbkamfgjbamebnjeejbkkil)
 
-[Download to Edge](https://chrome.google.com/webstore/detail/ajlmalinjdbkamfgjbamebnjeejbkkil)
+[Download to Edge](https://microsoftedge.microsoft.com/addons/detail/chcachcmkdliiognoicbmphkkhanjank)
 
 [Download to Others](https://chrome.google.com/webstore/detail/ajlmalinjdbkamfgjbamebnjeejbkkil)
