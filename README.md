@@ -1,4 +1,4 @@
-# nimo-clean-layout
+# nimo-clean-layout (Nimo.tv Plus)
 
 Extension to clean the Nimo.tv layout and make the page more beautiful.
 
